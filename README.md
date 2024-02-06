@@ -5,6 +5,7 @@ MPX5XX0DP Fritzing Part (e.g. MPX5010DP, MPX5700DP). This is a modification from
 
 
 #### Image example (made on Fritzing):
+![MPX-Breadboard.png](MPX-Breadboard.png)
 
 
 
