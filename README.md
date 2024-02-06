@@ -1,7 +1,7 @@
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
 # MPX5XX0DP-Fritzing-part
-MPX5XX0DP Fritzing Part (e.g. MPX5010DP, MPX5700DP). This is a modification from the original MOX5700AP part designed by Peter Van Epp (vanepp in forums), which did not have the bus connections on the top of the board connectable.
+MPX5XX0DP Fritzing Part (e.g. MPX5010DP, MPX5700DP). This is a modification from the original MOX5700AP part designed by Peter Van Epp (vanepp in forums) to be the differential pressure model (i.e. with two ports).
 
 
 #### Image example (made on Fritzing):
